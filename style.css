@@ -693,6 +693,7 @@ a:hover {
     border: none;
     border-radius: 5px;
     border-bottom: 1px solid black;
+    outline:none;
 }
 
 .feedbackform input[type="submit"] {
